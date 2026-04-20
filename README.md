@@ -99,6 +99,8 @@ This dashboard enables stakeholders to:
 ---
 
 ## Dashboard Preview
+<img width="1172" height="680" alt="image" src="https://github.com/user-attachments/assets/f3ee5bf2-8312-453b-8b04-743413299618" />
+
 ---
 
 ## Data Model
