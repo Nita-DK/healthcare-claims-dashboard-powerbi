@@ -19,7 +19,7 @@ Healthcare stakeholders required a unified reporting solution to:
 - Detect high-risk populations
 - Improve cost management and care prioritization
 
-Existing reporting methods were fragmented and time-consuming, limiting actionable insights.
+<!--Existing reporting methods were fragmented and time-consuming, limiting actionable insights.-->
 
 ---
 
@@ -50,7 +50,7 @@ Existing reporting methods were fragmented and time-consuming, limiting actionab
 - Power BI
 - Power Query (Data Transformation)
 - DAX (Data Modeling & Calculations)
-- Excel (Source Data Preparation)
+<!-- - Excel (Source Data Preparation)-->
 - Data Visualization & Dashboard Design
 
 ---
@@ -99,11 +99,6 @@ This dashboard enables stakeholders to:
 ---
 
 ## Dashboard Preview
-
-
-
-
-
 ---
 
 ## Data Model
@@ -113,13 +108,6 @@ This dashboard enables stakeholders to:
 ---
 
 ## Files Included
-
-- healthcare_claims_dashboard.pbix
-- healthcare_claims_dataset.csv
-- dashboard-overview.png
-- claims-trend.png
-- cost-breakdown.png
-- data-model.png
 
 ---
 
