@@ -100,9 +100,7 @@ This dashboard enables stakeholders to:
 
 ## Dashboard Preview
 
-(Add screenshots here)
 
-Example:
 
 
 
