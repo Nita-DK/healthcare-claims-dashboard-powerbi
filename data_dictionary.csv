@@ -1,0 +1,55 @@
+﻿Table,Column,Description
+1_Members,age,Member age in years
+1_Members,chronic_condition,Primary chronic condition flag
+1_Members,enrollment_date,Date enrolled
+1_Members,gender,Member gender (M/F/NB)
+1_Members,group_id,Employer/group ID
+1_Members,member_id,Unique member identifier
+1_Members,plan_type,Insurance plan type
+1_Members,risk_score,Actuarial risk score (higher=sicker)
+1_Members,state,State of residence
+2_Providers,network_status,In or Out of Network
+2_Providers,provider_id,Unique provider identifier
+2_Providers,provider_type,Type of provider/facility
+2_Providers,quality_score,Quality rating 1-5
+2_Providers,specialty,Medical specialty
+2_Providers,state,State where provider operates
+3_Medical_Claims,allowed_amount,Negotiated allowed amount
+3_Medical_Claims,billed_amount,Amount provider billed
+3_Medical_Claims,claim_id,Unique medical claim ID
+3_Medical_Claims,claim_status,Paid/Denied/Pended
+3_Medical_Claims,copay,Copay portion of member cost
+3_Medical_Claims,deductible_applied,Deductible applied to this claim
+3_Medical_Claims,denial_reason,Reason code if claim denied
+3_Medical_Claims,diagnosis_code,ICD-10 diagnosis code
+3_Medical_Claims,member_id,FK → Members
+3_Medical_Claims,member_paid_amount,Amount paid by member
+3_Medical_Claims,paid_date,Date claim was paid
+3_Medical_Claims,place_of_service,CMS place of service code
+3_Medical_Claims,plan_paid_amount,Amount paid by health plan
+3_Medical_Claims,procedure_code,CPT procedure code
+3_Medical_Claims,provider_id,FK → Providers
+3_Medical_Claims,service_date,Date service was rendered
+4_Pharmacy_Claims,claim_id,Unique pharmacy claim ID
+4_Pharmacy_Claims,days_supply,Number of days medication covers
+4_Pharmacy_Claims,drug_cost,Total drug ingredient cost
+4_Pharmacy_Claims,drug_name,Drug name and strength
+4_Pharmacy_Claims,drug_tier,Formulary tier
+4_Pharmacy_Claims,fill_date,Prescription fill date
+4_Pharmacy_Claims,generic_available,Whether a generic alternative exists
+4_Pharmacy_Claims,mail_order,Retail vs mail order fill
+4_Pharmacy_Claims,member_id,FK → Members
+4_Pharmacy_Claims,member_paid_amount,Amount paid by member
+4_Pharmacy_Claims,pharmacy_id,FK → Providers (pharmacy)
+4_Pharmacy_Claims,plan_paid_amount,Amount paid by plan
+4_Pharmacy_Claims,quantity,Quantity dispensed
+5_Dental_Claims,allowed_amount,Allowed amount
+5_Dental_Claims,billed_amount,Billed charge
+5_Dental_Claims,claim_id,Unique dental claim ID
+5_Dental_Claims,member_id,FK → Members
+5_Dental_Claims,member_paid_amount,Member paid
+5_Dental_Claims,plan_paid_amount,Plan paid
+5_Dental_Claims,procedure_code,ADA dental procedure code
+5_Dental_Claims,provider_id,FK → Providers
+5_Dental_Claims,service_date,Date of service
+5_Dental_Claims,tooth_number,Tooth number (if applicable)
