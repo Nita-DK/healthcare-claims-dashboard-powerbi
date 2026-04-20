@@ -1,0 +1,201 @@
+provider_id,provider_type,network_status,state,specialty,quality_score,years_in_network,avg_claim_amount,claim_volume_percentile,denial_rate_pct,upcoding_flag,kickback_referral_flag,license_status,sanctions_flag,suspicion_score
+PRV0001,Hospital,In-Network,TX,Psychiatry,4.1,19,776.99,85.8,11.9,0,0,Active,0,0.49
+PRV0002,Hospital,In-Network,IL,Oncology,2.5,1,871.52,29.9,2.7,0,0,Active,0,0.037
+PRV0003,Specialist,Out-of-Network,WA,Radiology,4.3,4,413.8,92.4,3.4,0,0,Active,0,0.535
+PRV0004,Imaging,Out-of-Network,FL,Endocrinology,4.9,4,541.55,23.0,36.8,0,0,Active,1,0.705
+PRV0005,Dental,Out-of-Network,PA,Neurology,4.3,17,330.63,75.0,15.4,0,1,Active,0,0.339
+PRV0006,Imaging,In-Network,TX,Endocrinology,2.1,14,1124.44,63.1,17.6,0,0,Active,0,0.111
+PRV0007,PCP,In-Network,PA,Endocrinology,3.8,18,626.68,75.0,2.7,1,0,Active,0,0.85
+PRV0008,PCP,In-Network,FL,Radiology,4.1,1,786.1,43.7,12.3,1,0,Active,0,0.925
+PRV0009,Urgent Care,In-Network,PA,Oral Surgery,4.5,22,902.38,93.3,32.6,1,0,Active,0,0.652
+PRV0010,PCP,In-Network,NY,Orthopedics,2.2,16,495.64,63.2,25.4,0,0,Active,0,0.812
+PRV0011,Lab,Out-of-Network,OH,Radiology,3.4,3,886.51,28.8,30.6,0,0,Active,0,0.32
+PRV0012,Hospital,In-Network,NY,Cardiology,3.6,23,837.11,63.8,19.0,0,0,Active,0,0.164
+PRV0013,Lab,In-Network,FL,Internal Medicine,2.5,21,870.34,28.7,13.8,0,0,Active,0,0.436
+PRV0014,Urgent Care,In-Network,TX,General Dentistry,3.0,9,627.94,29.4,20.3,0,1,Active,0,0.452
+PRV0015,Specialist,Out-of-Network,IL,Orthopedics,3.3,23,508.89,40.0,14.3,0,0,Active,0,0.016
+PRV0016,Specialist,In-Network,CA,Oncology,4.5,4,328.73,85.2,33.9,0,0,Active,0,0.117
+PRV0017,Specialist,Out-of-Network,IL,Orthopedics,4.8,21,1003.58,50.0,13.3,0,0,Active,0,0.185
+PRV0018,Hospital,Out-of-Network,PA,Emergency Medicine,3.9,5,761.35,67.9,27.1,0,0,Active,0,0.114
+PRV0019,Lab,Out-of-Network,CA,Oral Surgery,3.2,11,577.67,39.2,7.2,0,0,Suspended,0,0.342
+PRV0020,Imaging,In-Network,CA,Oncology,2.8,21,1137.28,26.4,28.1,0,0,Active,0,0.965
+PRV0021,Imaging,In-Network,PA,Neurology,4.9,9,133.58,95.5,36.7,0,0,Revoked,0,0.509
+PRV0022,Mental Health,In-Network,PA,Radiology,4.9,3,1032.19,60.4,25.1,0,0,Active,0,0.628
+PRV0023,Specialist,In-Network,TX,Endocrinology,4.8,6,1197.29,93.4,23.3,1,0,Active,0,0.924
+PRV0024,PCP,In-Network,FL,Oral Surgery,4.4,24,1073.38,20.3,38.5,1,0,Active,0,0.887
+PRV0025,Specialist,In-Network,WA,Radiology,3.0,11,987.69,14.7,25.8,0,0,Active,0,0.023
+PRV0026,Lab,Out-of-Network,IL,Emergency Medicine,4.5,9,499.22,85.6,11.9,0,0,Active,0,0.5
+PRV0027,Specialist,In-Network,FL,Oral Surgery,3.2,15,339.07,68.1,13.1,1,0,Active,0,0.766
+PRV0028,Imaging,Out-of-Network,NY,Psychiatry,3.0,23,903.03,18.7,28.8,0,0,Active,0,0.158
+PRV0029,Hospital,In-Network,TX,Emergency Medicine,4.2,3,421.12,26.9,29.9,1,0,Active,0,0.703
+PRV0030,Dental,In-Network,TX,Cardiology,2.2,1,277.16,80.1,13.5,0,0,Active,0,0.493
+PRV0031,Mental Health,Out-of-Network,WA,Endocrinology,2.1,20,960.91,45.4,15.1,0,0,Active,0,0.339
+PRV0032,PCP,In-Network,NY,Endocrinology,3.3,22,430.05,67.1,39.7,0,0,Active,0,0.147
+PRV0033,Hospital,In-Network,IL,Family Medicine,3.3,19,1104.17,31.8,5.9,0,0,Active,0,0.552
+PRV0034,Urgent Care,In-Network,OH,Psychiatry,4.7,14,1021.51,38.1,17.4,0,0,Active,0,0.753
+PRV0035,Specialist,In-Network,NY,Family Medicine,2.4,17,1029.36,99.1,4.4,0,0,Active,0,0.282
+PRV0036,Specialist,In-Network,IL,Neurology,2.4,22,944.16,24.8,33.2,1,1,Active,0,0.975
+PRV0037,Lab,In-Network,CA,Internal Medicine,2.4,14,1066.59,50.6,5.5,0,0,Active,0,0.522
+PRV0038,Specialist,In-Network,PA,General Dentistry,2.1,17,982.44,84.4,27.6,0,0,Active,0,0.155
+PRV0039,Urgent Care,In-Network,TX,Internal Medicine,2.2,14,754.81,23.9,4.1,0,0,Active,0,0.667
+PRV0040,Lab,In-Network,IL,Radiology,4.0,12,411.32,41.5,27.6,0,1,Active,0,0.605
+PRV0041,PCP,In-Network,FL,Internal Medicine,3.3,16,1074.79,61.5,34.0,0,0,Expired,0,0.087
+PRV0042,Hospital,In-Network,WA,Endocrinology,4.3,1,1021.48,48.1,17.2,0,0,Active,0,0.037
+PRV0043,Specialist,Out-of-Network,PA,Emergency Medicine,5.0,13,609.62,46.0,21.8,0,0,Active,0,0.62
+PRV0044,Lab,In-Network,FL,Psychiatry,4.0,6,123.77,36.3,17.3,0,0,Suspended,0,0.294
+PRV0045,PCP,In-Network,PA,Radiology,2.2,17,795.17,58.7,13.4,0,0,Active,1,0.086
+PRV0046,Dental,In-Network,TX,Radiology,2.3,12,136.67,62.4,32.5,0,0,Active,0,0.759
+PRV0047,Specialist,Out-of-Network,NY,Psychiatry,4.6,23,1117.43,65.3,12.3,0,1,Active,0,0.314
+PRV0048,PCP,In-Network,OH,Endocrinology,3.6,19,1157.03,7.0,29.5,0,0,Active,0,0.46
+PRV0049,Specialist,In-Network,NY,General Dentistry,4.5,6,292.23,63.1,9.8,0,0,Active,0,0.237
+PRV0050,Specialist,In-Network,IL,Neurology,4.6,7,837.56,95.3,11.5,0,0,Active,0,0.627
+PRV0051,Specialist,In-Network,WA,Neurology,4.8,1,183.34,54.1,14.8,1,0,Active,0,0.764
+PRV0052,Urgent Care,In-Network,NY,Radiology,4.8,1,897.06,71.5,24.4,0,0,Active,1,0.968
+PRV0053,Hospital,In-Network,TX,Neurology,3.7,5,468.96,55.7,19.3,0,0,Active,0,0.703
+PRV0054,PCP,In-Network,WA,Endocrinology,3.0,6,842.78,85.5,30.3,0,0,Active,0,0.137
+PRV0055,PCP,Out-of-Network,IL,Cardiology,4.9,16,497.62,93.0,10.1,0,0,Active,0,0.417
+PRV0056,Lab,In-Network,CA,Cardiology,3.6,16,243.04,18.4,2.4,1,1,Active,0,0.682
+PRV0057,Urgent Care,In-Network,NY,Family Medicine,2.2,14,534.84,43.7,31.5,1,0,Active,0,0.683
+PRV0058,Specialist,In-Network,NY,Orthopedics,3.9,1,206.19,39.2,33.2,1,0,Active,0,0.938
+PRV0059,Imaging,Out-of-Network,OH,Oncology,3.8,13,726.11,40.5,4.3,0,0,Active,0,0.583
+PRV0060,Specialist,Out-of-Network,IL,Internal Medicine,4.7,20,125.87,12.6,25.2,1,0,Active,0,0.855
+PRV0061,Imaging,In-Network,FL,Neurology,4.0,10,670.6,81.4,16.4,0,0,Active,0,0.655
+PRV0062,Specialist,In-Network,NY,Cardiology,3.0,24,1072.73,3.6,32.2,0,0,Active,0,0.008
+PRV0063,PCP,In-Network,TX,Emergency Medicine,4.9,10,1018.42,52.8,35.2,1,0,Active,1,0.924
+PRV0064,Mental Health,In-Network,NY,Psychiatry,4.4,9,1068.72,66.2,34.3,0,0,Active,0,0.667
+PRV0065,Specialist,In-Network,OH,Orthopedics,3.9,13,1112.69,20.7,31.5,0,0,Active,0,0.309
+PRV0066,Imaging,In-Network,CA,Family Medicine,2.9,3,197.07,90.6,12.2,0,0,Active,0,0.292
+PRV0067,Specialist,In-Network,OH,Oncology,3.1,18,224.2,83.9,32.9,0,0,Active,0,0.798
+PRV0068,Urgent Care,In-Network,NY,Cardiology,4.0,20,703.85,47.1,22.3,0,0,Active,0,0.783
+PRV0069,Dental,In-Network,WA,Family Medicine,2.2,2,1081.25,41.1,4.0,0,0,Active,0,0.352
+PRV0070,PCP,In-Network,FL,Oral Surgery,2.8,17,1171.27,23.7,19.4,0,0,Active,0,0.299
+PRV0071,Dental,In-Network,PA,Orthopedics,4.1,19,131.81,73.0,37.8,1,0,Active,0,0.898
+PRV0072,Urgent Care,In-Network,NY,Psychiatry,3.4,23,478.47,13.2,35.7,0,0,Active,0,0.008
+PRV0073,Urgent Care,In-Network,IL,Internal Medicine,3.2,13,318.44,68.0,5.9,0,0,Active,0,0.083
+PRV0074,Hospital,In-Network,NY,Cardiology,2.5,13,926.68,84.2,30.3,0,0,Active,0,0.126
+PRV0075,Dental,In-Network,FL,General Dentistry,3.3,1,797.02,22.8,32.6,0,0,Active,0,0.185
+PRV0076,PCP,In-Network,IL,Psychiatry,4.3,2,214.27,86.6,12.3,0,0,Expired,0,0.512
+PRV0077,Specialist,In-Network,TX,Oncology,2.8,1,621.54,3.3,19.9,0,0,Active,0,0.992
+PRV0078,Dental,In-Network,WA,Neurology,2.0,24,847.69,91.3,29.0,0,0,Active,0,0.653
+PRV0079,Imaging,In-Network,IL,Orthopedics,4.0,5,952.49,11.8,18.7,0,0,Active,0,0.061
+PRV0080,PCP,In-Network,OH,Oncology,4.9,24,102.46,64.6,6.3,0,0,Active,0,0.526
+PRV0081,Hospital,Out-of-Network,CA,Internal Medicine,3.8,3,1077.33,25.0,28.8,0,0,Active,1,0.497
+PRV0082,Hospital,In-Network,OH,Psychiatry,2.4,7,717.6,83.7,36.6,0,0,Active,0,0.144
+PRV0083,Specialist,Out-of-Network,PA,Endocrinology,3.0,24,989.34,51.2,26.8,0,0,Active,0,0.92
+PRV0084,Specialist,In-Network,IL,Internal Medicine,4.6,22,984.89,13.5,31.4,0,1,Active,0,0.441
+PRV0085,Lab,Out-of-Network,TX,Oral Surgery,2.7,13,292.63,57.1,15.6,0,0,Active,0,0.995
+PRV0086,Specialist,In-Network,NY,Radiology,3.8,23,203.39,40.8,9.0,0,0,Active,0,0.42
+PRV0087,Imaging,In-Network,WA,Cardiology,3.2,18,887.84,66.1,26.4,0,0,Active,0,0.608
+PRV0088,Imaging,In-Network,IL,Neurology,2.6,24,255.2,88.2,14.5,0,0,Active,0,0.105
+PRV0089,Specialist,In-Network,OH,General Dentistry,4.4,21,1031.93,40.9,34.7,0,0,Active,0,0.454
+PRV0090,Specialist,Out-of-Network,IL,Orthopedics,4.2,7,893.33,29.0,6.7,0,0,Active,1,0.239
+PRV0091,Specialist,In-Network,IL,Emergency Medicine,4.0,1,1022.84,1.5,18.5,0,0,Active,0,0.836
+PRV0092,Hospital,In-Network,IL,General Dentistry,2.7,5,414.89,57.5,17.1,0,0,Active,0,0.784
+PRV0093,Lab,In-Network,TX,Psychiatry,2.3,17,434.59,40.2,37.6,0,0,Active,0,0.824
+PRV0094,Specialist,In-Network,WA,Oral Surgery,3.7,8,831.77,37.5,7.8,0,0,Suspended,1,0.724
+PRV0095,Urgent Care,Out-of-Network,FL,Endocrinology,3.7,15,115.22,18.3,2.4,0,0,Active,0,0.833
+PRV0096,Specialist,In-Network,FL,Emergency Medicine,2.6,20,893.68,43.0,11.0,0,0,Active,0,0.201
+PRV0097,Specialist,In-Network,IL,General Dentistry,2.2,4,1016.08,98.4,33.2,0,0,Active,0,0.452
+PRV0098,PCP,In-Network,TX,Oral Surgery,2.2,2,544.98,29.8,10.0,0,0,Revoked,0,0.692
+PRV0099,PCP,Out-of-Network,TX,Cardiology,5.0,5,936.66,60.0,11.2,0,0,Active,0,0.637
+PRV0100,Specialist,In-Network,PA,Cardiology,4.4,1,275.56,77.6,6.9,0,0,Active,0,0.716
+PRV0101,Specialist,In-Network,IL,Orthopedics,4.8,5,440.93,74.9,29.2,0,0,Active,0,0.224
+PRV0102,Dental,In-Network,OH,General Dentistry,2.6,6,1171.22,32.9,4.6,0,0,Active,0,0.098
+PRV0103,Imaging,In-Network,OH,Endocrinology,4.9,2,1184.69,61.1,14.6,0,0,Active,0,0.917
+PRV0104,Specialist,In-Network,CA,Cardiology,2.4,1,654.12,87.1,12.7,0,0,Active,0,0.56
+PRV0105,Specialist,Out-of-Network,WA,Emergency Medicine,3.5,4,1126.38,1.5,23.1,0,0,Active,0,0.154
+PRV0106,Specialist,In-Network,IL,Endocrinology,4.5,7,665.46,43.6,29.8,0,0,Active,0,0.793
+PRV0107,Specialist,Out-of-Network,CA,Oral Surgery,3.0,22,406.58,22.4,22.2,0,0,Active,0,0.915
+PRV0108,Hospital,In-Network,OH,Emergency Medicine,3.3,1,378.93,38.9,37.4,1,0,Active,0,0.832
+PRV0109,Specialist,In-Network,OH,Internal Medicine,2.4,1,1121.05,41.6,38.2,1,0,Active,0,0.981
+PRV0110,Specialist,Out-of-Network,IL,Oral Surgery,2.4,8,273.14,74.7,15.7,0,0,Active,1,0.933
+PRV0111,PCP,In-Network,CA,Oncology,3.9,20,729.19,9.4,31.6,0,0,Active,1,0.938
+PRV0112,PCP,In-Network,CA,Endocrinology,4.0,16,702.19,51.3,30.1,0,0,Active,0,0.914
+PRV0113,PCP,In-Network,IL,Family Medicine,4.3,21,908.38,56.4,35.9,0,0,Active,0,0.546
+PRV0114,Lab,In-Network,WA,Oncology,3.7,13,639.15,49.4,19.0,0,0,Active,0,0.356
+PRV0115,Specialist,In-Network,PA,Oral Surgery,3.9,23,384.96,73.2,22.2,1,0,Active,0,0.779
+PRV0116,Hospital,In-Network,CA,General Dentistry,2.0,24,269.72,38.4,17.8,0,0,Active,0,0.061
+PRV0117,Urgent Care,Out-of-Network,PA,Oncology,2.5,23,775.32,94.5,34.3,0,0,Active,0,0.429
+PRV0118,Dental,Out-of-Network,NY,Endocrinology,5.0,18,885.27,48.2,10.7,0,0,Suspended,0,0.399
+PRV0119,Dental,In-Network,WA,Neurology,2.2,20,717.86,57.1,11.1,0,0,Active,0,0.185
+PRV0120,Lab,Out-of-Network,OH,Cardiology,4.0,10,906.95,82.6,16.2,0,0,Active,0,0.395
+PRV0121,PCP,Out-of-Network,FL,Internal Medicine,2.5,12,238.5,27.5,10.8,0,0,Active,0,0.175
+PRV0122,Urgent Care,In-Network,WA,Neurology,4.2,1,1068.37,7.5,23.3,0,0,Suspended,0,0.849
+PRV0123,Imaging,In-Network,PA,Neurology,4.1,10,732.28,70.8,7.1,0,0,Active,0,0.298
+PRV0124,PCP,In-Network,PA,Family Medicine,2.7,9,222.07,48.3,14.2,0,0,Active,0,0.599
+PRV0125,Hospital,In-Network,PA,Psychiatry,2.8,3,597.36,89.7,36.7,0,0,Active,0,0.503
+PRV0126,Dental,In-Network,TX,Endocrinology,4.0,19,1026.17,98.3,17.6,0,1,Active,0,0.052
+PRV0127,Hospital,Out-of-Network,WA,Emergency Medicine,3.2,9,1085.27,39.9,30.4,0,0,Active,0,0.942
+PRV0128,PCP,In-Network,CA,Cardiology,2.6,10,376.41,41.5,6.3,0,0,Active,0,0.527
+PRV0129,PCP,In-Network,CA,General Dentistry,4.2,19,876.62,40.8,11.4,0,0,Active,0,0.325
+PRV0130,Specialist,In-Network,TX,Neurology,2.5,16,191.98,32.5,32.7,1,0,Active,0,0.838
+PRV0131,PCP,In-Network,CA,Internal Medicine,4.6,24,117.57,78.2,31.0,0,0,Active,0,0.339
+PRV0132,Lab,In-Network,TX,Psychiatry,3.5,18,707.65,75.9,16.7,0,0,Suspended,0,0.021
+PRV0133,Lab,In-Network,PA,Family Medicine,2.3,14,858.21,47.9,38.3,0,0,Active,0,0.364
+PRV0134,PCP,In-Network,IL,Radiology,4.1,3,971.28,4.5,36.6,0,0,Active,0,0.531
+PRV0135,Dental,In-Network,WA,Cardiology,3.6,2,461.04,31.0,38.6,0,0,Active,0,0.872
+PRV0136,Specialist,In-Network,NY,Radiology,2.9,1,87.31,29.2,18.3,0,1,Active,0,0.687
+PRV0137,PCP,In-Network,PA,Oncology,3.3,18,617.06,81.1,9.5,0,0,Active,0,0.112
+PRV0138,Imaging,In-Network,NY,Neurology,2.9,24,97.76,8.8,25.8,0,0,Revoked,0,0.148
+PRV0139,Imaging,In-Network,OH,Orthopedics,2.8,9,183.02,80.6,28.0,0,0,Suspended,0,0.428
+PRV0140,Urgent Care,In-Network,PA,Cardiology,2.5,13,445.89,66.9,6.8,1,1,Active,0,0.932
+PRV0141,Dental,In-Network,FL,Emergency Medicine,3.1,2,569.63,73.2,31.9,0,0,Active,0,0.028
+PRV0142,Lab,In-Network,CA,Psychiatry,2.8,7,393.01,43.2,2.7,0,0,Active,0,0.805
+PRV0143,Dental,Out-of-Network,FL,Internal Medicine,4.1,16,731.69,68.0,20.3,0,1,Active,0,0.02
+PRV0144,Specialist,In-Network,IL,Cardiology,4.1,21,141.99,60.9,14.6,1,0,Active,0,0.86
+PRV0145,Lab,In-Network,NY,Emergency Medicine,3.5,19,241.93,76.9,30.1,0,0,Active,0,0.144
+PRV0146,Mental Health,Out-of-Network,WA,Endocrinology,4.3,15,858.69,44.7,13.9,0,0,Active,0,0.975
+PRV0147,Lab,In-Network,PA,Radiology,4.5,22,239.2,47.3,33.4,0,0,Active,0,0.604
+PRV0148,PCP,In-Network,WA,Endocrinology,3.7,11,796.55,64.4,24.6,0,0,Active,0,0.735
+PRV0149,Hospital,Out-of-Network,IL,Psychiatry,3.9,1,141.25,10.8,32.2,0,0,Active,0,0.11
+PRV0150,Urgent Care,In-Network,IL,Family Medicine,2.8,21,536.27,43.6,39.6,0,0,Active,0,0.862
+PRV0151,PCP,In-Network,CA,Neurology,4.7,7,278.7,97.2,27.8,0,0,Active,0,0.839
+PRV0152,Mental Health,Out-of-Network,IL,Cardiology,2.1,20,202.79,3.8,39.4,1,0,Active,0,0.943
+PRV0153,PCP,In-Network,PA,Orthopedics,3.0,8,715.08,31.6,3.1,0,0,Active,0,0.502
+PRV0154,PCP,In-Network,PA,Radiology,4.2,10,1119.74,31.4,14.8,0,0,Active,0,0.721
+PRV0155,Dental,In-Network,WA,Radiology,2.2,5,141.36,63.3,6.1,1,0,Active,0,0.846
+PRV0156,Hospital,In-Network,WA,Cardiology,2.5,9,552.14,10.6,12.0,0,0,Active,0,0.592
+PRV0157,PCP,In-Network,NY,Oncology,3.8,1,872.44,62.9,33.9,0,0,Active,0,0.847
+PRV0158,Urgent Care,In-Network,PA,Endocrinology,3.7,2,598.21,9.5,3.2,0,0,Active,0,0.357
+PRV0159,Urgent Care,Out-of-Network,FL,Radiology,4.2,19,983.28,9.5,21.8,0,0,Revoked,0,0.108
+PRV0160,PCP,Out-of-Network,NY,Emergency Medicine,4.4,14,281.2,72.8,23.6,0,0,Active,0,0.421
+PRV0161,Mental Health,Out-of-Network,CA,Internal Medicine,2.4,20,1154.75,32.4,23.3,0,0,Active,0,0.727
+PRV0162,Hospital,In-Network,NY,Neurology,2.1,10,511.38,97.7,20.1,0,0,Active,0,0.107
+PRV0163,Urgent Care,In-Network,TX,Radiology,4.1,9,462.56,3.7,32.0,0,0,Active,1,0.206
+PRV0164,Hospital,Out-of-Network,WA,Emergency Medicine,2.9,10,1059.56,44.5,7.1,1,0,Active,0,0.89
+PRV0165,Urgent Care,Out-of-Network,FL,Psychiatry,3.9,6,711.53,11.3,13.8,0,0,Active,0,0.797
+PRV0166,Specialist,In-Network,WA,Psychiatry,2.5,17,658.42,35.1,25.4,0,0,Active,0,0.063
+PRV0167,Specialist,In-Network,TX,Neurology,3.4,6,894.22,99.8,28.3,1,0,Suspended,0,0.666
+PRV0168,Hospital,In-Network,TX,Oncology,3.5,4,729.41,88.9,17.4,0,0,Active,0,0.366
+PRV0169,Imaging,In-Network,OH,General Dentistry,3.8,20,262.02,4.8,35.3,0,0,Active,0,0.756
+PRV0170,PCP,In-Network,PA,General Dentistry,3.5,3,835.1,56.3,17.8,0,0,Active,0,0.964
+PRV0171,Urgent Care,Out-of-Network,CA,Orthopedics,3.5,23,229.49,64.8,17.3,0,0,Active,0,0.115
+PRV0172,Imaging,In-Network,IL,Neurology,3.0,19,982.56,21.0,3.4,0,0,Active,0,0.314
+PRV0173,PCP,In-Network,TX,Family Medicine,2.2,18,1188.5,14.5,22.9,0,0,Active,0,0.81
+PRV0174,PCP,In-Network,NY,Oncology,2.3,24,502.67,90.4,28.9,1,0,Active,0,0.727
+PRV0175,Specialist,In-Network,IL,Radiology,3.3,4,578.13,96.9,6.3,0,0,Active,0,0.215
+PRV0176,Urgent Care,In-Network,NY,General Dentistry,3.1,8,132.01,99.2,13.6,0,0,Active,0,0.825
+PRV0177,PCP,In-Network,WA,Neurology,3.5,17,95.38,79.0,31.7,0,0,Active,0,0.987
+PRV0178,Specialist,In-Network,NY,General Dentistry,2.9,5,1111.99,66.4,15.9,0,0,Active,0,0.557
+PRV0179,Urgent Care,In-Network,IL,Oral Surgery,4.1,13,224.06,34.6,11.2,0,0,Revoked,0,0.278
+PRV0180,Urgent Care,In-Network,IL,Endocrinology,4.6,1,579.27,17.1,27.5,0,1,Suspended,0,0.399
+PRV0181,Specialist,In-Network,PA,Psychiatry,2.9,13,993.2,7.9,9.5,0,0,Active,0,0.17
+PRV0182,Specialist,In-Network,NY,Oral Surgery,2.6,4,1076.04,69.3,36.0,0,0,Active,0,0.762
+PRV0183,Imaging,Out-of-Network,CA,Emergency Medicine,2.3,22,661.73,78.5,6.0,0,0,Active,0,0.773
+PRV0184,Mental Health,In-Network,PA,Neurology,3.8,24,712.84,82.6,28.8,0,0,Expired,0,0.875
+PRV0185,Dental,Out-of-Network,FL,Endocrinology,3.3,14,830.05,91.4,21.0,0,0,Active,0,0.027
+PRV0186,Urgent Care,In-Network,OH,Oncology,2.6,3,1156.75,88.0,35.1,0,0,Active,0,0.562
+PRV0187,Specialist,Out-of-Network,FL,Family Medicine,4.0,5,754.99,100.0,6.8,0,0,Active,0,0.214
+PRV0188,Specialist,Out-of-Network,CA,Emergency Medicine,2.4,7,706.61,24.4,27.8,0,0,Active,0,0.341
+PRV0189,PCP,In-Network,PA,Internal Medicine,3.7,1,96.28,76.3,23.7,1,1,Active,0,0.748
+PRV0190,PCP,In-Network,OH,General Dentistry,3.6,23,170.66,58.6,20.2,1,0,Active,0,0.677
+PRV0191,Lab,In-Network,PA,Family Medicine,4.2,12,726.43,26.1,20.7,0,0,Revoked,0,0.638
+PRV0192,Specialist,Out-of-Network,IL,Radiology,2.2,11,1128.59,98.2,29.4,1,0,Active,0,0.729
+PRV0193,Specialist,In-Network,OH,Oral Surgery,4.7,24,1050.69,89.8,37.6,0,0,Active,0,0.954
+PRV0194,Mental Health,In-Network,WA,Endocrinology,4.1,8,1180.49,12.9,5.5,0,0,Active,0,0.775
+PRV0195,PCP,In-Network,NY,Neurology,2.6,6,671.17,2.6,2.7,0,0,Active,0,0.804
+PRV0196,PCP,Out-of-Network,FL,General Dentistry,2.6,22,962.48,68.8,32.6,0,1,Active,0,0.532
+PRV0197,PCP,In-Network,OH,Oral Surgery,3.3,2,1021.25,60.4,6.1,0,0,Active,0,0.187
+PRV0198,Urgent Care,In-Network,NY,Oral Surgery,4.5,19,805.8,93.6,39.5,1,0,Active,0,0.684
+PRV0199,Urgent Care,In-Network,PA,Neurology,4.5,20,459.4,23.4,25.5,0,0,Suspended,0,0.549
+PRV0200,Specialist,In-Network,CA,Cardiology,3.6,20,606.38,8.4,26.7,0,0,Active,0,0.678
