@@ -49,9 +49,10 @@ Healthcare stakeholders required a unified reporting solution to:
 
 - Power BI
 - Power Query (Data Transformation)
-- DAX (Data Modeling & Calculations)
-<!-- - Excel (Source Data Preparation)-->
+- DAX (Measurements)
+- Generate Date Calendar
 - Data Visualization & Dashboard Design
+- Bookmark, Page Navigation
 
 ---
 
