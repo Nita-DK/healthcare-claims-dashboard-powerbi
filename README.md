@@ -103,6 +103,9 @@ This dashboard enables stakeholders to:
 <img width="1172" height="680" alt="image" src="https://github.com/user-attachments/assets/f3ee5bf2-8312-453b-8b04-743413299618" />
 
 ---
+## Actionable Insights
+<img width="1032" height="592" alt="image" src="https://github.com/user-attachments/assets/e732817e-14af-4346-a76e-0e160e0a05c4" />
+
 
 ## Data Model
 
